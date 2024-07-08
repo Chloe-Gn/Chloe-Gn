@@ -5,7 +5,7 @@ Before this, I tried my hand at several jobs, including English teacher, content
 
 I am skilled at solving problems, explaining things and managing projects 🙂
 
-👉​ I am looking for a 2-month internship as a developper AND a one-year work/study contract, in Nantes.
+👉​ I am looking for a 2-month internship as a developper AND a one-year work/study contract, still as a developper, in Nantes.
 
 ## Languages I'm studying
 - Java (Spring Boot) 
