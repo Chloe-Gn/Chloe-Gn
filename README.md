@@ -1,6 +1,6 @@
 # About me
 
-I'm currently learning web development @ENI Ecole informtatique in Nantes.
+I'm currently learning web development @ENI Ecole informatique in Nantes.
 Before this, I tried my hand at several jobs, including English teacher, content writer and SEO consultant.
 
 I am skilled at solving problems, explaining things and managing projects 🙂
